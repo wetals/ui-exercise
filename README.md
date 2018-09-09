@@ -18,7 +18,10 @@ Commit each exercise once you've finished with it.
 
 Exercise #1
 -----------
-Create a full width page with a header, a footer and a main section in index.html. The main section should contain a content section and a sidebar. Set the width of the content section to 70% and the sidebar section to 30%. The sidebar should appear on the right hand side of the content section.
+Create a full width page with a header, a footer and a main section in index.html.
+The main section should contain a content section and a sidebar.
+Set the width of the content section to 70% and the sidebar section to 30%.
+The sidebar should appear on the right hand side of the content section.
 
 index.html should include these assets:
 
