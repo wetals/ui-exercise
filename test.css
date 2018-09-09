@@ -85,7 +85,7 @@ img {
     position: relative;
     text-decoration: none;
     display: inline-block;
-    margin-right: 40px;
+    margin-right: 35px;
     font-size: 1.2rem;
     letter-spacing: .15rem;
     line-height: 24px;
@@ -156,6 +156,15 @@ img {
 .sidebar {
     order: 2;
     background: #ddd;
+    width: 0%;
+    transition: width 0.5s;
+    -webkit-transition: width 0.5s;
+    -moz-transition: width 0.5s;
+    -o-transition: width 0.5s;
+    -ms-transition: width 0.5s;
+}
+
+.sidebar-active .sidebar {
     width: 30%;
 }
 
